@@ -4,7 +4,7 @@ Este repositorio contiene los recursos, prácticas y ejercicios desarrollados co
 
 ## Contenido del Repositorio
 
-### 📂 PEC 1 (`JLARACHU-PEC1.pdf`)
+### PEC 1 (`JLARACHU-PEC1.pdf`)
 - **Temas tratados**:
   - Conceptos básicos de bases de datos NoSQL.
   - Implicaciones de bases de datos *schemaless*.
@@ -13,7 +13,7 @@ Este repositorio contiene los recursos, prácticas y ejercicios desarrollados co
 - **Ejercicios**:
   - Respuestas justificadas con referencias a los materiales del curso.
 
-### 📂 PEC 2 (`JLARACHU_PEC2.pdf`)
+### PEC 2 (`JLARACHU_PEC2.pdf`)
 - **Temas tratados**:
   - Estrategias de distribución de datos.
   - Uso de MapReduce.
@@ -22,7 +22,7 @@ Este repositorio contiene los recursos, prácticas y ejercicios desarrollados co
 - **Ejercicios**:
   - Soluciones explicadas con énfasis en las mejores prácticas para bases de datos distribuidas.
 
-### 📂 Práctica 1 (`JLARACHU_PRACTICA.pdf`)
+### Práctica 1 (`JLARACHU_PRACTICA.pdf`)
 - **Bases de datos utilizadas**:
   - **Cassandra**:
     - Creación y carga de datos.
